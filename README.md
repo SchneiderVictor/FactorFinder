@@ -8,4 +8,4 @@ Usage:
   
     where n is any positive integer
 
-Warning: the process will likely become blocked for large numbers (approximately >20 000)
+Warning: the process will likely become blocked for large numbers (approximately >32 500)
